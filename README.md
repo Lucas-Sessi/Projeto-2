@@ -1,4 +1,4 @@
-# lading-page-2
-2ª  lading page de demonstração
+# Projeto 2
+Este é o meu segundo projeto.
 
-<a href="https://lucas-sessi.github.io/lading-page-2/Ladingpage2.html">2ª  lading page de demonstração<a>
+<a href="https://lucas-sessi.github.io/Projeto-2/">Projeto 2<a>
