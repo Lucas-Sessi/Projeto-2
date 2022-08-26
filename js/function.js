@@ -21,12 +21,11 @@ $(function(){
 
     $('header a').click(function(){
         var href= $(this).attr('href');
-        var offSetTop = $(href).offSet().top;
+        var offSetTop = $(href).offset().top;
 
-        $('html, body').animate({'scrollTop':offSetTop;});
+        $('html, body').animate({'scrollTop':offSetTop});
 
         return false;
     })
-
-
+    
 })
