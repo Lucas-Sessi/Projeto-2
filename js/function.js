@@ -19,11 +19,11 @@ $(function(){
     //menu scroll
 
 
-    $('.nav1 a').click(function(){
+    $('header a').click(function(){
         var href= $(this).attr('href');
         var offSetTop = $(href).offSet().top;
 
-        $('html, body').animate({'scrollTop':offSetTop});
+        $('html, body').animate({'scrollTop':offSetTop;});
 
         return false;
     })
